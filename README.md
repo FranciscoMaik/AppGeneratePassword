@@ -3,8 +3,9 @@
 ![badge](https://img.shields.io/badge/Node-v14.15.1-green)
 ![badge](https://img.shields.io/badge/Expo-v4.3.0-green)
 ![badge](https://img.shields.io/badge/Plataforma-Ios-blue)
-![badge](https://img.shields.io/badge/Plataforma-Android-blue)
+![badge](https://img.shields.io/badge/Plataforma-Androids-blue)
 
+![rn-layout-1](https://user-images.githubusercontent.com/20601076/110715062-6fa8b080-81fc-11eb-92ca-ce87c6048d9a.png)
 
 
 ## Versionamento
