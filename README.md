@@ -19,7 +19,5 @@ Para mantermos uma melhor organização de lançamentos, seguiremos as diretrize
 A aplicação gera uma senha com uma quantidade de caracteres especificados pelo deslizar do *slide* e *click do botão* para gerar senha.
 
 ## Licença
-Licença [MIT](https://github.com/FranciscoMaik/AppGeneratePassword/blob/main/LICENSE)
+[Licença MIT](https://github.com/FranciscoMaik/AppGeneratePassword/blob/main/LICENSE)  © [FranciscoMaik](https://www.linkedin.com/in/francisco-maik-fonseca-nunes-468511184/)
 
-## Copywrite
-© FranciscoMaik
