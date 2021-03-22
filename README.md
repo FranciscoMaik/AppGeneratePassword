@@ -27,7 +27,7 @@ A aplicação gera uma senha com uma quantidade de caracteres especificados pelo
 
 ## Aplicação em Funcionamento
 <p align="center">
-    <img src = "https://user-images.githubusercontent.com/20601076/112042722-bf15a780-8b3f-11eb-8f4a-9cb6e652eda6.gif" width = "250" height = "500">
+    <img src = "https://user-images.githubusercontent.com/20601076/112045053-511eaf80-8b42-11eb-979c-ecc80d7dea21.gif" width = "250" height = "500">
 </p>
 
 ## Licença
