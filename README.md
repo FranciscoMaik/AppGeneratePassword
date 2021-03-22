@@ -1,3 +1,18 @@
+# Índice
+ 1. [Versionamento](#versionamento)
+
+ 2. [Pré-requisitos](#pré-requisitos)
+ 
+ 3. [Como executar a aplicação](#como-executar-a-aplicação)
+
+ 4. [Funcionalidade da Aplicação](#funcionalidade-da-aplicação)
+
+ 5. [Aplicação em funcionamento](#aplicação-em-funcionamento)
+
+ 6. [Licença](#licença)
+
+<br><br>
+
 # 🔐 Aplicação para gerar senhas
 ![badge](https://img.shields.io/badge/Projeto-Gerador%20de%20Senhas-%23ffa200)
 ![badge](https://img.shields.io/badge/Node-v14.15.1-green)
